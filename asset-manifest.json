@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vrq-india-app/static/css/main.198f9aa8.css",
-    "main.js": "/vrq-india-app/static/js/main.819bd361.js",
+    "main.js": "/vrq-india-app/static/js/main.7c3e39dd.js",
     "static/js/787.8bfcbe95.chunk.js": "/vrq-india-app/static/js/787.8bfcbe95.chunk.js",
     "index.html": "/vrq-india-app/index.html",
     "main.198f9aa8.css.map": "/vrq-india-app/static/css/main.198f9aa8.css.map",
-    "main.819bd361.js.map": "/vrq-india-app/static/js/main.819bd361.js.map",
+    "main.7c3e39dd.js.map": "/vrq-india-app/static/js/main.7c3e39dd.js.map",
     "787.8bfcbe95.chunk.js.map": "/vrq-india-app/static/js/787.8bfcbe95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.198f9aa8.css",
-    "static/js/main.819bd361.js"
+    "static/js/main.7c3e39dd.js"
   ]
 }
