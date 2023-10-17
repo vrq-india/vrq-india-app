@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vrq-india-app/static/css/main.da39c010.css",
-    "main.js": "/vrq-india-app/static/js/main.28381ea7.js",
+    "main.css": "/vrq-india-app/static/css/main.96ebb817.css",
+    "main.js": "/vrq-india-app/static/js/main.dac3f04c.js",
     "static/js/787.8bfcbe95.chunk.js": "/vrq-india-app/static/js/787.8bfcbe95.chunk.js",
     "static/media/logo.png": "/vrq-india-app/static/media/logo.4477c8f3cb120f66e420.png",
     "index.html": "/vrq-india-app/index.html",
     "static/media/star.svg": "/vrq-india-app/static/media/star.0adb9a983f92c71bcf6438bfdfc48d30.svg",
-    "main.da39c010.css.map": "/vrq-india-app/static/css/main.da39c010.css.map",
-    "main.28381ea7.js.map": "/vrq-india-app/static/js/main.28381ea7.js.map",
+    "main.96ebb817.css.map": "/vrq-india-app/static/css/main.96ebb817.css.map",
+    "main.dac3f04c.js.map": "/vrq-india-app/static/js/main.dac3f04c.js.map",
     "787.8bfcbe95.chunk.js.map": "/vrq-india-app/static/js/787.8bfcbe95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da39c010.css",
-    "static/js/main.28381ea7.js"
+    "static/css/main.96ebb817.css",
+    "static/js/main.dac3f04c.js"
   ]
 }
